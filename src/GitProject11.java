@@ -12,6 +12,9 @@ public class GitProject11 {
 			
 		}
 		
-		
+		public void method2(){
+			
+			// This for oractice
+		}
 	}
 
