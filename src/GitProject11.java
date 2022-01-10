@@ -5,7 +5,13 @@ public class GitProject11 {
 		
 		//This is for Practice 
 		
+	}
+		public void method() {
+			
+			System.out.println("This is for practice"); 
+			
+		}
 		
 		
 	}
-}
+
